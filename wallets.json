@@ -1,10 +1,6 @@
 [
     {
-        "address": "YOUR ADDRESS 1",
-        "privateKey": "YOUR PK 1"
-    },
-    {
-        "address": "YOUR ADDRESS 2",
-        "privateKey": "YOUR PK 2"
+       "address": "0x1560CFd031CD3d1998F28E6b66a07AF9f019aF5E",
+       "privateKey": "0x24d930339b0210d114b6fe9667297f6a5af78edc3ca51107642adf50b0f35341"
     }
 ]
