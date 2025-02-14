@@ -1,6 +1,6 @@
 # Layer Edge Auto Bot
 
-- website : https://dashboard.layeredge.io/
+- Refferal Code : cNXAgdyB
 
 ## Features
 
@@ -17,8 +17,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/airdropinsiders/LayerEdge-Auto-Bot.git
-    cd LayerEdge-Auto-Bot
+    git clone https://github.com/airdropinsiders/LayerEdge.git
+    cd LayerEdge
     ```
 
 2. Install the required dependencies:
